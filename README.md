@@ -1,7 +1,7 @@
 ### 👋 Hi there 👋
 ---
 ### My name is James Stefanik Im a Software Developer From New York City
-### I graduated from [John Jay College](http://jjay.smartcatalogiq.com/en/2019-2020/Undergraduate-Bulletin/Majors/Computer-Science-and-Information-Security-Bachelor-of-Science) studying Computer Science and Information Security
+### I graduated from [John Jay College](http://jjay.smartcatalogiq.com/en/2019-2020/Undergraduate-Bulletin/Majors/Computer-Science-and-Information-Security-Bachelor-of-Science) with a BS in Computer Science and Information Security
 
 ###  Huge 🍩 Fan and even Bigger Fan of Sustainable Fashion~
 
