@@ -8,8 +8,9 @@
 ###  📫Let's Talk!📫
 
 ### | [Linkedin](https://www.linkedin.com/in/james-stefanik-532382a4/) | [Email](james.stefanik@gmail.com) | [Bird?](https://www.youtube.com/watch?v=9Gc4QTqslN4) |
----
-### And dont forget to check what im up to 💖
+
+
+### Don't forget to check what I'm up to 💖
 
 <!--
 **hiityu/hiityu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
