@@ -1,9 +1,11 @@
-### 👋 Hi there 👋
+# 👋 Hi there I'm James Stefanik and a Software Developer From New York City
 ---
-### My name is James Stefanik Im a Software Developer From New York City
-### I graduated from [John Jay College](http://jjay.smartcatalogiq.com/en/2019-2020/Undergraduate-Bulletin/Majors/Computer-Science-and-Information-Security-Bachelor-of-Science) with a BS in Computer Science and Information Security
+## I graduated from [John Jay College](http://jjay.smartcatalogiq.com/en/2019-2020/Undergraduate-Bulletin/Majors/Computer-Science-and-Information-Security-Bachelor-of-Science) with a BS in Computer Science and Information Security
 
-###  Huge 🍩 Fan and even Bigger Fan of Sustainable Fashion~
+## 🌱 I’m currently learning ... Typescript, Node.js , and AWS
+## 💬 Ask me about ... Frontend Development, UX/UI , and Project Management. 
+
+### I'm a Huge 🍩 Fan and even Bigger Fan of Sustainable Fashion~
 
 ###  📫Let's Talk!📫
 
