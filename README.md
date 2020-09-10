@@ -3,6 +3,7 @@
 ## I graduated from [John Jay College](http://jjay.smartcatalogiq.com/en/2019-2020/Undergraduate-Bulletin/Majors/Computer-Science-and-Information-Security-Bachelor-of-Science) with a BS in Computer Science and Information Security
 
 ## 🌱 I’m currently learning ... Typescript, Node.js , and AWS
+
 ## 💬 Ask me about ... Frontend Development, UX/UI , and Project Management. 
 
 ### I'm a Huge 🍩 Fan and even Bigger Fan of Sustainable Fashion~
